@@ -9,6 +9,7 @@ social media and lifestyle habits.
 - Predicts a mental health score (roughly 3 to 10) with a machine
   learning model
 - Served through a FastAPI backend and a simple web page
+- - An AI wellness chat companion with safety guardrails
 
 ## Dataset
 Student Social Media and Mental Health Impact: 5,000 students,
